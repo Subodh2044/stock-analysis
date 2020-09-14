@@ -11,9 +11,9 @@ I decided to analyze all the stocks to see how actively they are traded in the m
 
 [2017_Script_Execution](https://github.com/Subodh2044/stock-analysis/blob/master/Resources/VBA_Challenge_2017.png)
 
-[[2018_Script_Execution]](https://github.com/Subodh2044/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
+[2018_Script_Execution](https://github.com/Subodh2044/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
-[2018_Script_Execution](https://github.com/Subodh2044/stock-analysis/blob/master/Resources/Code.png)
+[2018_Code](https://github.com/Subodh2044/stock-analysis/blob/master/Resources/Code.png)
 
 From the analysis in the year 2017 all the stocks had porsitive return except the ticker "TERP". Among all the stocks "DQ" had the highest return of 199.4% followed by "SEDG", "ENPH" and "FSLR" with 184.5%, 129.5% and 101.3% respectively. Whereas in 2018 the yeild were very low, infact negative return for all but "ENPH" and "RUN" with 81.9% and 84% respectively.
 
